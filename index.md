@@ -2,7 +2,7 @@
 
 - [Create an Account](Create-an-Account.html)
 
-- [Log in](Log-in.html)
+- [Log in](Log-In.html)
 
 - [Specify a Concert to Attend](Specify-a-Concert-to-Attend.html)
 
