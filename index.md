@@ -1,6 +1,6 @@
 ## Welcome to Two for the Show
 
-- [Create an Account](Create-an-Account.html)
+- [Create an Account/Update Account Information](Create-an-Account.html)
 
 - [Log in](Log-In.html)
 
